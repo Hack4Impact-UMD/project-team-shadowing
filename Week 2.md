@@ -14,7 +14,8 @@
 - Meeting Time:
 
 ## Who are you shadowing?
-> [Click here](https://www.notion.so/h4i/Project-Team-Role-Descriptions-1aa197abf07b80b4b371efff5970a227?pvs=4) for role descriptions. Select a role!
+> [Click here](https://www.notion.so/h4i/Project-Team-Role-Descriptions-1aa197abf07b80b4b371efff5970a227?pvs=4) for role descriptions. **You must follow this person for Week 1 and Week 2**.
+
 - Name:
 - Role:
 
