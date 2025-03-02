@@ -1,1 +1,1 @@
-# project-team-shadowing
+# 👥 Project Team Shadowing Activity
