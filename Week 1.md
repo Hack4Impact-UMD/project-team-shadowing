@@ -61,15 +61,5 @@
 [please write here]
 <br><br>
 
-## [Ask this person a question and write it here]
-[write the answer here]
-<br><br>
-
-## [Ask the team a question and write it here]
-[write the answer here]
-
-
-
-
-
-
+## (Optional) Ask additional questions.
+[please write their questions and answers here]
