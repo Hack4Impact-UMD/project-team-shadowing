@@ -52,16 +52,12 @@
 [please write here]
 <br><br>
 
-## Describe one quality you would like to learn from them.
-[please write here]
-<br><br>
-
 ## What are your overall thoughts on the team? Would you join them?
 > Feel free to add any suggestions for them in this section. How can they do better? We will not be sharing them with anyone!
 
 [please write here]
 <br><br>
 
-## [Ask the team a question and write it here]
-[write the answer here]
+## (Optional) Ask additional questions.
+[please write their questions and answers here]
 
