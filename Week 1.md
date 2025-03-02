@@ -62,4 +62,4 @@
 <br><br>
 
 ## (Optional) Ask additional questions.
-[please write their questions and answers here]
+[please write the questions and their answers here]
