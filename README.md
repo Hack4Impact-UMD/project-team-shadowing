@@ -1,7 +1,9 @@
 # 👥 Project Team Shadowing
 
 ## Introduction
-For the next two weeks, you will keenly observe a project team's dynamics and progress by attending their weekly meetings. You will probably have the urge to act like a fly on the wall at these meetings... **please don't**! 😄 We've already informed them that you will be active participants.
+For the next two weeks, you will keenly observe a project team's dynamics and progress by attending their weekly meetings. **You must attend their meetings for two weeks in a row.**
+
+You will probably have the urge to act like a fly on the wall at these meetings... **please don't**! 😄 We've already informed them that you will be active participants.
 
 You probably joined Hack4Impact with a dream project team role in mind. This activity aims to see what it would be like to serve in your dream role through shadowing someone already in it. 
 
